@@ -60,7 +60,7 @@ cargo install --path .
 > IPADRESİNİZİ girmeyi unutmayın!
 
 ```sh
-bazuka init --external 5.75.182.65:8765 --bootstrap 31.210.53.186:8765
+bazuka init --external 65.109.167.98:8765 --bootstrap 31.210.53.186:8765
 ```
 
 <h1 align="center"> Node'u çalıştıralım </h1>
@@ -71,7 +71,7 @@ bazuka init --external 5.75.182.65:8765 --bootstrap 31.210.53.186:8765
 screen -S ziesha
 ```
 ```sh
-bazuka node start --discord-handle "Rues"
+bazuka node start --discord-handle ! kriptosekici#9604
 ```
 
 <h1 align="center"> Çalıştığını nasıl anlarız? </h1>
